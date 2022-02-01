@@ -1,3 +1,5 @@
+{% include navigation.html%}
+
 ---
 layout: default 
 title: "About the website in the YAML HEADER"
