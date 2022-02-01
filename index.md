@@ -15,4 +15,4 @@ This is my description text
 
 [Feel free to learn more about](about.md) 
 
-If you have questiions [we'd love to here from you](mail to:{{site.email}})
+If you have questiions [we'd love to here from you](mailto:{{site.email}})
