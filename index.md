@@ -1,3 +1,11 @@
+layout: home 
+title: "My first homepage" 
+author: "giana elise" 
+
+
+
+
+
 # My  Homepage 
 My first homepage for carpentry workshop 
 
