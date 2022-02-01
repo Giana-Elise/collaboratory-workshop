@@ -3,7 +3,7 @@ title: "My first homepage"
 author: "giana elise" 
 ---
 
-{% include navigation.html %}
+{% includes navigation.html %}
 
 # My  Homepage 
 My first homepage for carpentry workshop 
